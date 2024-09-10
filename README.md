@@ -1,4 +1,4 @@
-# mlops_sp24_acc1
+# Basic Template for Calculator App
 
 Create a virtual environment
 `python -m venv .`
